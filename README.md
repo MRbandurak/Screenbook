@@ -1,6 +1,6 @@
 # Screenbook
 A little in function simple do that i cerated for purpose of making a copy of 800+ pages long E-book from Kindle for PC.
-It basically takes a scrennshot of coordinated space at start of program and pastes it to wordpad. 
+It basically x-times takes a scrennshot of coordinated space at start of program and pastes it to wordpad. 
 You will get cordinnates by using control viewer - which you will get a binary from https://www.autoitscript.com/forum/files/file/457-control-viewer/ . 
 I will appriciate if someone more skilled will take this somewhere further.
 
